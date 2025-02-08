@@ -20,7 +20,7 @@
     font-family: 'Outfit';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/outfit-v11-latin-regular.woff2') format('woff2');
+    src: url('/qr-code-component-main/fonts/outfit-v11-latin-regular.woff2') format('woff2');
 }
 
 @font-face {
@@ -28,7 +28,7 @@
     font-family: 'Outfit';
     font-style: normal;
     font-weight: 700;
-    src: url('../fonts/outfit-v11-latin-700.woff2') format('woff2');
+    src: url('/qr-code-component-main/fonts/outfit-v11-latin-700.woff2') format('woff2');
 }
 
 body {
