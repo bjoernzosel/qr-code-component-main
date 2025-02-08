@@ -11,9 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -55,9 +53,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Björn Zosel](https://zosel.lu)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@bjoernzosel](https://www.frontendmentor.io/profile/bjoernzosel)
 - Twitter - [@bjoernzosel](https://www.twitter.com/bjoernzosel)
-
-## Acknowledgments
-
-My boy [Claude](https://claude.ai) for helping me with the code.
