@@ -1,0 +1,17 @@
+name: Deploy Website
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Dependencies
+        run: npm install
+      - name: Run Tests
+        run: npm test
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: actions/deploy-pages@v1
